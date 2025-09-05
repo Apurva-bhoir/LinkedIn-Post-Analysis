@@ -62,7 +62,7 @@ From the processed data, the AI tool identified the **Top 10 Content Ideas** tha
 - **Top Performing Posts** – Examples of high-impact captions  
 - **Caption Style Analysis** – Breakdown of phrasing styles by performance  
 
-📄 *The dashboard is available as `LinkedIn_Trends.pdf` in the repository.*  
+📄 *The dashboard is available as `LinkedIn Analysis.pdf` in the repository.*  
 
 
 ---
