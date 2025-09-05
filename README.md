@@ -68,4 +68,4 @@ From the processed data, the AI tool identified the **Top 10 Content Ideas** tha
 ---
 
 ## 📜 License
-This project is licensed under the MIT License – feel free to use and adapt with attribution.  
+All rights reserved © Apurva Bhoir, 2025.
